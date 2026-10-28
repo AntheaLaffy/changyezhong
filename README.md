@@ -2,6 +2,8 @@
 
 澜港用钟声印钱。声音不会消失，只会变淡。
 
+阅读：<https://anthealaffy.github.io/changyezhong/>
+
 静态站点（霞鹜文楷）：推送后由 GitHub Pages 从 `docs/` 发布。
 
 ```
